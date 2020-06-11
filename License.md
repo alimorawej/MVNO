@@ -1,5 +1,5 @@
 # Mobile Virtual Network Operator 
-<p><b> Spring 2016 &copy Ali Morawej </b></p>
+<p><b> 2016 &copy Ali Morawej </b></p>
 
 <p>All rights reserved.</p>
 <br/>
