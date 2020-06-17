@@ -4,8 +4,6 @@ Mobile Virtual Network Operator
 <figure>
  <img src="High Level Design/MVNO-overview.png" width="%65" height="%65">
  </figure>
- <br />
-
 ## Introduction
 <p>The MVNO concept is a very attractive option for such a “specialist”, aiming at drastically reducing the required resources (investment, headcount and roll-out time) and allowing the new entrant to focus on the really critical, market-side success factors. As there is no need for a spectrum license, a lengthy, complex and expensive radio network roll-out, or ongoing maintenance of the latter, market entry barriers are much lower than for a full mobile network operator (MNO). </p>
 
@@ -17,6 +15,7 @@ Mobile Virtual Network Operator
  <figcaption>Figure 1: 3G Core Network </figcaption>
  </figure>
  <br />
+ 
 <p>The core network fulfills subscriber management functions defined in the 3GPP specifications in the role of mobility management (GGSN, SGSN, MME, SGW, PGW), policy and charging control, content and video optimization, and more with advanced features such as real-time analytics.
 <p>Virtualized Mobile Core (VMC) solutions should support commercially available virtualization hypervisors (e.g., VMware, Linux KVM) and is designed to be deployed on Common Off The Shelf (COTS) hardware that enables mobile operators to quickly and cost-effectively increase the speed and performance of network.</p>
 <p>This VMC solution should be support Dynamic Capacity Scaling. Operators able to configure Core KPIs (number of sessions or subscribers, CPU Load, throughput) in the system that will trigger the SGSN / MME or GGSN / SGW / PGW /VAS VNFs to add or remove Virtual Machines automatically in the operator’s data center. Also should be fully compliant with the Network Function Virtualization (NFV) architecture.</p>
