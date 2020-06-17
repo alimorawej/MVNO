@@ -42,3 +42,8 @@ Mobile Virtual Network Operator
 <p> IMS private and public should be identities per subscriber or SIP username, authentication, realm Domain and CSCF configuration (per profile) </p>
 <p>High availability is required to be configured in a cluster of equal nodes Subscriber data is replicated across all nodes Requests can be distributed or balanced between nodes Detection of communication failures.</p>
 
+<figure>
+ <img src="High Level Design/MVNO_BlockDiagram_IMS.png" width="%65" height="%65">
+ <figcaption>Figure 2: IMS Block Diagram</figcaption>
+ </figure>
+ <br />
