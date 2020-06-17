@@ -13,7 +13,7 @@ Mobile Virtual Network Operator
 <p>The principle of having a solution that combined all of the functionality required for an 3G/4G/LTE and IMS subscriber management and services platform that bundles the subscriber gateway services, and content delivery services into a single and completely virtual and represent the next generation of mobile network core platform.</p>
 <p>The system architecture should have designed to meet the increased network capacities realized with 3G and 3G+ radio networks. The core networks solution should be providing broader and more intelligent subscriber services that operate on subscriber data and support the increase in demand to control content delivery providing the mobile operator with tools to monetize the content that flows through their radio network. </p>
 <figure>
- <img src="High Level Design/MVNO_3G Core Network.png" width="%65" height="%65">
+ <img src="High Level Design/MVNO-3G Core Network.png" width="%65" height="%65">
  <figcaption>Figure 1: 3G Core Network </figcaption>
  </figure>
  <br />
