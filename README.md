@@ -12,6 +12,11 @@ Mobile Virtual Network Operator
 ## Overview & description
 <p>The principle of having a solution that combined all of the functionality required for an 3G/4G/LTE and IMS subscriber management and services platform that bundles the subscriber gateway services, and content delivery services into a single and completely virtual and represent the next generation of mobile network core platform.</p>
 <p>The system architecture should have designed to meet the increased network capacities realized with 3G and 3G+ radio networks. The core networks solution should be providing broader and more intelligent subscriber services that operate on subscriber data and support the increase in demand to control content delivery providing the mobile operator with tools to monetize the content that flows through their radio network. </p>
+<figure>
+ <img src="High Level Design/MVNO_3G Core Network.png" width="%65" height="%65">
+ <figcaption>Figure 1: 3G Core Network </figcaption>
+ </figure>
+ <br />
 <p>The core network fulfills subscriber management functions defined in the 3GPP specifications in the role of mobility management (GGSN, SGSN, MME, SGW, PGW), policy and charging control, content and video optimization, and more with advanced features such as real-time analytics.
 <p>Virtualized Mobile Core (VMC) solutions should support commercially available virtualization hypervisors (e.g., VMware, Linux KVM) and is designed to be deployed on Common Off The Shelf (COTS) hardware that enables mobile operators to quickly and cost-effectively increase the speed and performance of network.</p>
 <p>This VMC solution should be support Dynamic Capacity Scaling. Operators able to configure Core KPIs (number of sessions or subscribers, CPU Load, throughput) in the system that will trigger the SGSN / MME or GGSN / SGW / PGW /VAS VNFs to add or remove Virtual Machines automatically in the operator’s data center. Also should be fully compliant with the Network Function Virtualization (NFV) architecture.</p>
