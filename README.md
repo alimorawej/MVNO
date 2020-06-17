@@ -29,6 +29,11 @@ Mobile Virtual Network Operator
 ## 3G and 4G Core Gateway Services
 <p>The system should provide SGW and PGW services that are part of the LTE as Evolved Packet Core (EPC) architecture as well as the GGSN service for 3G networks.</p>
 <p>Operators able to configure the system as an SGW, PGW, or Service and Packet Gateway. The system architecture should be support both an SGW and PGW.</p>
+<figure>
+ <img src="High Level Design/MVNO_3G-4G logical Diagram Core Network.png" width="%65" height="%65">
+ <figcaption>Figure 2: 3G/4G Logical Diagram Core Network</figcaption>
+ </figure>
+ <br />
 <p>The system architecture should be support multiple VPN contexts enabling Operators to define multiple types of services as part of each VPN context. The system should be support the default context local, which is a global context. </p>
 
 ## Home Subscriber Server / Home Location Register Module
