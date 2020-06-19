@@ -1,5 +1,5 @@
 # MVNO
-Mobile Virtual Network Operator 
+Mobile Virtual Network Operator 2G/3G/4G core network | EPC/IMS/HSS/HLR/PGW/GGSN/PCRF/5GC 
 
 <figure>
  <img src="High Level Design/MVNO-overview.png" width="%65" height="%65">
