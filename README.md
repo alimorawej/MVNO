@@ -49,6 +49,15 @@ Mobile Virtual Network Operator 2G/3G/4G core network | EPC/IMS/HSS/HLR/PGW/GGSN
 
 <figure>
  <img src="High Level Design/MVNO_BlockDiagram_IMS.png" width="%65" height="%65">
- <figcaption>Figure 2: IMS Block Diagram</figcaption>
+ <figcaption>Figure 3: IMS Block Diagram</figcaption>
+ </figure>
+ <br />
+
+## Network Topology
+<p>The network IP Topology based on MNO connectivity as figure 4.</p>
+ <br />
+<figure>
+ <img src="High Level Design/MVNO_NetworkTopology.png" width="%65" height="%65">
+ <figcaption>Figure 4: Network Connection Topology</figcaption>
  </figure>
  <br />
